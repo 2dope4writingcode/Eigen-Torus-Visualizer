@@ -39,7 +39,7 @@ Il codice è altamente configurabile. Ecco alcune delle possibili modifiche:
 - **Personalizzare il grafico**: Puoi cambiare il colore dello sfondo del grafico modificando `fig.set_facecolor("#f4f0e8")` con un altro colore a tua scelta.
 - **Modificare lo stile e il colore degli autovalori**: Personalizza i colori e lo stile degli autovalori cambiando i parametri di `ax.scatter`.
 
-![Esempio di Autovalori](images/eigenvalues_example3.png)
+![Esempio di Autovalori](images/example_3.png)
 
 ## Sezione Matematica Approfondita
 

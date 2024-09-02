@@ -12,7 +12,7 @@ Il file `eigen.py` contiene una classe chiamata `Eigenfish`, che è responsabile
 2. **Calcolo degli autovalori**: Il metodo `eigvals_random_ts_torus` calcola gli autovalori della matrice modificata da configurazioni casuali sul toro.
 3. **Visualizzazione**: Gli autovalori sono visualizzati in un grafico scatter, con un titolo generato in LaTeX che descrive la matrice utilizzata.
 
-![Esempio di Autovalori](images/eigenvalues_example2.png)
+![Esempio di Autovalori](images/example_2.png)
 
 ## Come eseguire il programma
 
